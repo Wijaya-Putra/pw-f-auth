@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394721279762",
+    "project_id": "pw-f-auth",
+    "storage_bucket": "pw-f-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394721279762:android:0eac7bc1c1027005bc3dcb",
+        "android_client_info": {
+          "package_name": "com.example.pw_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsQ9QdgHgxY9Aqj21mQtq7SdVJiiVZcfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
